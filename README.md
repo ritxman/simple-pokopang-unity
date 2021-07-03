@@ -1,9 +1,10 @@
 # Simple Pokopang Puzzle Game
 
 <h1>Introduction</h1>
-Platform: PC (Windows) <br/>
-Engine: Unity Game Engine <br/>
-Language: C#<br/><br/>
+Platform: PC (Windows)<br/>
+Engine: Unity Game Engine<br/>
+Language: C#<br/>
+Created on: 2016<br/><br/>
 
 This is the simple puzzle game from line pokopang reference made using unity game engine.<br/> 
 Drag one shape to another adjacent shape with the same type.<br/>
